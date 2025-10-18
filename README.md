@@ -23,15 +23,6 @@ An intelligent web application that uses deep learning to automatically identify
 - https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-4.PNG
 - https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-5.PNG
 
-Main Interface
-Upload any pet image and get instant classification results with confidence scores.
-
-## Prediction Results
-Large emoji display for identified pet type
-Confidence percentage with visual progress bar
-Detailed breakdown of all prediction scores
-Color-coded confidence indicators
-
 ---
 
 ## 📖 Usage
