@@ -1,7 +1,7 @@
 # 🐈 Pet Classifier - AI-Powered Pet Recognition
 An intelligent web application that uses deep learning to automatically identify pet types from uploaded images. Built with Streamlit and TensorFlow, this project demonstrates practical application of transfer learning and computer vision.
 
-
+---
 
 ## 🌟 Features
 
@@ -13,15 +13,15 @@ An intelligent web application that uses deep learning to automatically identify
 🎨 Beautiful UI: Clean, modern interface with emoji indicators and color-coded results
 ⚡ Fast Performance: Lightweight CNN model with ~3.5M parameters for quick inference
 
-
+---
 
 ## 📸 Screenshots
 
-https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-1.PNG
-https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-2.PNG
-https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-3.PNG
-https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-4.PNG
-https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-5.PNG
+- https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-1.PNG
+- https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-2.PNG
+- https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-3.PNG
+- https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-4.PNG
+- https://github.com/Majeed-Omer/Pet_Classifier/blob/main/ScrrenShots/Capture-5.PNG
 
 Main Interface
 Upload any pet image and get instant classification results with confidence scores.
@@ -32,7 +32,7 @@ Confidence percentage with visual progress bar
 Detailed breakdown of all prediction scores
 Color-coded confidence indicators
 
-
+---
 
 ## 📖 Usage
 
@@ -55,7 +55,7 @@ Avoid blurry or very small images
 Front-facing or side profile shots work best
 Images with single pets perform better than group photos
 
-
+---
 
 ## 🏗️ Architecture
 Model Details
@@ -88,7 +88,7 @@ Small pets: Hamsters and guinea pigs
 
 Results: Aggregated scores are displayed with the highest confidence pet type
 
-
+---
 
 ## 🎯 Supported Pet Types
 The classifier can identify the following pet categories:
@@ -105,7 +105,7 @@ The classifier can identify the following pet categories:
 Clone the repository
 git clone https://github.com/Majeed-Omer/kurdish-animal-care
 
-
+---
 
 ## 👨‍💻 Author
 
