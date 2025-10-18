@@ -1,6 +1,8 @@
 # 🐈 Pet Classifier - AI-Powered Pet Recognition
 An intelligent web application that uses deep learning to automatically identify pet types from uploaded images. Built with Streamlit and TensorFlow, this project demonstrates practical application of transfer learning and computer vision.
 
+
+
 ## 🌟 Features
 
 🎯 Instant Classification: Upload pet images and get real-time predictions
@@ -10,6 +12,8 @@ An intelligent web application that uses deep learning to automatically identify
 💡 Smart Mapping: Intelligently maps ImageNet classes to common pet categories
 🎨 Beautiful UI: Clean, modern interface with emoji indicators and color-coded results
 ⚡ Fast Performance: Lightweight CNN model with ~3.5M parameters for quick inference
+
+
 
 ## 📸 Screenshots
 
@@ -27,6 +31,8 @@ Large emoji display for identified pet type
 Confidence percentage with visual progress bar
 Detailed breakdown of all prediction scores
 Color-coded confidence indicators
+
+
 
 ## 📖 Usage
 
@@ -48,6 +54,8 @@ Ensure the pet is the main subject of the photo
 Avoid blurry or very small images
 Front-facing or side profile shots work best
 Images with single pets perform better than group photos
+
+
 
 ## 🏗️ Architecture
 Model Details
@@ -80,6 +88,8 @@ Small pets: Hamsters and guinea pigs
 
 Results: Aggregated scores are displayed with the highest confidence pet type
 
+
+
 ## 🎯 Supported Pet Types
 The classifier can identify the following pet categories:
 
@@ -89,9 +99,13 @@ The classifier can identify the following pet categories:
 🐰 Rabbits (Hare, Wood Rabbit)
 🐹 Small Pets (Hamsters, Guinea Pigs)
 
+
+
 ## 🚀 How to Run Locally
 Clone the repository
 git clone https://github.com/Majeed-Omer/kurdish-animal-care
+
+
 
 ## 👨‍💻 Author
 
