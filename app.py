@@ -6,6 +6,7 @@ import numpy as np
 from PIL import Image
 import pandas as pd
 
+
 # Page config
 st.set_page_config(
     page_title="Pet Classifier 🐾",
