@@ -1,2 +1,2 @@
-# Pet_Classifier
-A web-based machine learning application that automatically identifies pet types from uploaded images using deep learning. Built with Streamlit for the frontend and TensorFlow/Keras for the AI backbone.
+🐾 Pet Classifier - AI-Powered Pet Recognition
+An intelligent web application that uses deep learning to automatically identify pet types from uploaded images. Built with Streamlit and TensorFlow, this project demonstrates practical application of transfer learning and computer vision.
